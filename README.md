@@ -5,7 +5,7 @@ A curated map of essential, popular, emerging, and specialized Python libraries 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/MertGedik35/awesome-python-ecosystem?style=social)](https://github.com/MertGedik35/awesome-python-ecosystem/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MertGedik35/awesome-python-ecosystem?style=social)](https://github.com/MertGedik35/awesome-python-ecosystem)
 [![Last commit](https://img.shields.io/github/last-commit/MertGedik35/awesome-python-ecosystem)](https://github.com/MertGedik35/awesome-python-ecosystem/commits/main)
 
 ## Introduction
